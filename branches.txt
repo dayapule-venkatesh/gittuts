@@ -1,0 +1,7 @@
+git checkout -b "branch name"
+in this command -b is used to create a branch in not exist with a given name
+same command is used to add files git add filename
+git push command is used to push into remote repository
+after that you will get a instruction command just cpoy and past and observe the branch is it same or not 
+
+to merge the sub branch to main branch sub branch member has to pull request to main branch
