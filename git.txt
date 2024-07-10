@@ -1,0 +1,16 @@
+git init command is used to intialize the software
+git status is used to check status of folder
+there are 4 steps to understand git 
+4.working directory
+3.staging area
+2.local  repository
+1.remote repository
+
+
+in step 4 folder files are exist 
+from step 4 to send step 3 we have to use git add file name
+from step3 to send  step 2 we have to use git commit -m"about file"
+from step 2 to  send step 1  we have to create a remote repository and we have to use the command as git remote  add origin https//...........(remote link)
+after that use git push -u origin .....(branch name)
+to know the branch use git branch
+the file is uploded into git repository
